@@ -1,13 +1,20 @@
+
+
+The code was written in 2016 and first published in my PhD thesis (2017) and is available in McGill University, e-thesis repository.
+"Social, genetic and behavioral risk factors of neck cancer - elucidating causal pathways"
+http://digitool.Library.McGill.CA:80/R/-?func=dbin-jump-full&object_id=148325&silo_library=GEN01
+
+
 # 4-Way-decomposition-
 Stata command for 4 way decomposition , binary x binary scenario
 
                            Stata codes for mediation and 4-way decomposition analysis under
                              counterfactual causal framework for case-control study design
 
-                                    Thekke Purakkal, Akhil Soman1, Kaufman, Jay S2.
+                                    Thekke Purakkal, Akhil Soman*, Kaufman, Jay S**.
 
-               1Division of Oral Health and Society, Faculty of Dentistry, McGill University, Montreal Quebec, 
-               2Department of Epidemiology, Biostatistics and Occupation Health, McGill University, Montreal, Quebec
+               *Division of Oral Health and Society, Faculty of Dentistry, McGill University, Montreal Quebec, 
+               **Department of Epidemiology, Biostatistics and Occupation Health, McGill University, Montreal, Quebec
 
                                   Release Date: August 1, 2016; Current Version 1
 
